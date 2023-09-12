@@ -3,7 +3,29 @@
     <id>http://example.com</id>
     <title>Giftbao</title>
     <link href="http://example.com" />
-    <updated>2023-09-12T05:54:34.842Z</updated>
+    <updated>2023-09-12T06:57:30.000Z</updated>
+    <category term="Test" />
+    <entry>
+        <id>http://example.com/2023/09/12/%E5%B0%8F%E5%8C%85%E5%AD%90/</id>
+        <title>小包子</title>
+        <link rel="alternate" href="http://example.com/2023/09/12/%E5%B0%8F%E5%8C%85%E5%AD%90/"/>
+        <content type="html">&lt;h3 id=&#34;1-this-is-a-blog-test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-this-is-a-blog-test&#34;&gt;#&lt;/a&gt; 1. This is a blog Test&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;First&lt;/li&gt;
+&lt;li&gt;Second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-show-text&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-show-text&#34;&gt;#&lt;/a&gt; 2. Show Text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;这是加粗&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;这是斜体&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="Test" />
+        <updated>2023-09-12T06:57:30.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/09/12/hello-world/</id>
         <title>Hello World</title>
