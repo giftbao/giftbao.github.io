@@ -16,8 +16,18 @@
             <pubDate>Tue, 12 Sep 2023 14:57:30 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;1-this-is-a-blog-test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-this-is-a-blog-test&#34;&gt;#&lt;/a&gt; 1. This is a blog Test&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;First&lt;/li&gt;
-&lt;li&gt;Second&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;First&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Second&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;http://s0v4n9plu.hd-bkt.clouddn.com/IMG_7342.JPG&#34; alt=&#34;http://s0v4n9plu.hd-bkt.clouddn.com/IMG_7342.JPG&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;s0v4n9plu.hd-bkt.clouddn.com/IMG_7059.JPG&#34; alt=&#34;IMG_7059&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;2-show-text&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-show-text&#34;&gt;#&lt;/a&gt; 2. Show Text&lt;/h3&gt;
