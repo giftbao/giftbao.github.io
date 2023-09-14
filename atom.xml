@@ -3,8 +3,15 @@
     <id>http://example.com</id>
     <title>Giftbao</title>
     <link href="http://example.com" />
-    <updated>2023-09-12T06:57:30.000Z</updated>
+    <updated>2023-09-14T01:38:23.000Z</updated>
     <category term="Test" />
+    <entry>
+        <id>http://example.com/2023/09/14/%E7%88%B1/</id>
+        <title>爱</title>
+        <link rel="alternate" href="http://example.com/2023/09/14/%E7%88%B1/"/>
+        <content type="html"></content>
+        <updated>2023-09-14T01:38:23.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/09/12/%E5%B0%8F%E5%8C%85%E5%AD%90/</id>
         <title>小包子</title>
