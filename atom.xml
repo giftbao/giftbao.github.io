@@ -9,7 +9,8 @@
         <id>http://example.com/2023/09/14/%E7%88%B1/</id>
         <title>爱</title>
         <link rel="alternate" href="http://example.com/2023/09/14/%E7%88%B1/"/>
-        <content type="html"></content>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/2023/09/14/%E7%88%B1/a1.jpg&#34; alt&gt;&lt;/p&gt;
+</content>
         <updated>2023-09-14T01:38:23.000Z</updated>
     </entry>
     <entry>
